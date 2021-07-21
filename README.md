@@ -26,7 +26,7 @@ Choose one of the following routes for your journey.
 *"Hey! Look! Listen!"*
 
 **TASKS**
-* All of the base requirements
++ All of the base requirements
 + Create and implement (using HTML, CSS and JS) a basic design 
 + Use a CSS Framework (Bootstrap, Foundation, Pure, etc.…)
 
@@ -49,7 +49,7 @@ Choose one of the following routes for your journey.
 *"Watch and learn Grasshopper."*
 
 **TASKS**
-* All of the base, novice, and intermediate requirements
++ All of the base, novice, and intermediate requirements
 + Allow the top 100 to be searchable 
 + Allow the user to see more information about a selected Album
 + Host the website on the service of your choice (We enjoy cloud hosting like Azure or AWS, but we would also settle for a *.github.io address)
