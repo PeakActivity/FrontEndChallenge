@@ -37,7 +37,7 @@ Choose one of the following routes for your journey.
 *"I know Kung Fu."*
 
 **TASKS**
-* All of the base, and novice requirements
++ All of the base, and novice requirements
 + Use a JavaScript framework (Vue, React, Backbone, etc...)
 + Use SASS or LESS for custom CSS
 + Make use of CSS animations
